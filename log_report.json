@@ -1,0 +1,14 @@
+{
+    "generated_at": "2026-04-14 20:49:17.726181",
+    "total_errors": 2,
+    "errors": [
+        {
+            "timestamp": "2026-04-14 20:46:58.845000",
+            "message": "ERROR: Database connection failed"
+        },
+        {
+            "timestamp": "2026-04-14 20:46:58.847000",
+            "message": "CRITICAL: Service unavailable"
+        }
+    ]
+}
